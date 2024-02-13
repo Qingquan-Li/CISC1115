@@ -1,0 +1,16 @@
+Medical Dosage Log:
+
+Patient 1:
+Weight: 140.0lbs
+Converted to kilos: 63.50 kg
+Required Dosage: 1905.09 mg
+
+Patient 2:
+Weight: 200.0lbs
+Converted to kilos: 90.72 kg
+Required Dosage: 2721.55 mg
+
+Patient 3:
+Weight: 100.0lbs
+Converted to kilos: 45.36 kg
+Required Dosage: 1360.78 mg
