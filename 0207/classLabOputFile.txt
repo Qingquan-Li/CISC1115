@@ -1,0 +1,16 @@
+Question 2:
+The sum of 10 and 3 is 13
+The difference between 10 and 3 is 7
+The product of 10 and 3 is 30
+The quotient of 10 and 3 is 3.33
+======================================
+Question 5:
+The area of a rectangle with length 4 and width 5 is 20
+The perimeter of a rectangle with length 4 and width 5 is 18
+======================================
+Question 7:
+40.00 °F in degrees Celsius (°C) is 4.44
+======================================
+Question 8:
+The area of a circle with radius 3.00 is 28.27
+The circumference of a circle with radius 3.00 is 18.85
