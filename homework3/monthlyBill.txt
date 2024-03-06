@@ -1,0 +1,4 @@
+Phone Plan: 3
+Number of Minutes used this month: 80
+50 Minute Limit Exceeded! -- Additional $0.03/minute charge applied
+Total: $35.90
