@@ -1,0 +1,19 @@
+Current Semester Transcript:
+
+Course: Biology
+Credits Attempted: 5
+Grade Received: A
+
+Course: Biology Lab
+Credits Attempted: 1
+Grade Received: B
+
+Course: English
+Credits Attempted: 5
+Grade Received: C
+
+Course: Mathematics
+Credits Attempted: 5
+Grade Received: F
+
+GPA: 2.06
