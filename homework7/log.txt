@@ -1,0 +1,18 @@
+$ java Homework7.java
+Please enter password: Hello
+Please re-enter password to confirm: hello
+Password Invalid --- Passwords DO NOT Match.
+Please enter password: Hello
+Please re-enter password to confirm: Hello
+Password Invalid  --- Password Length NOT Between 8 to 15 Characters.
+Password Invalid --- Password Does NOT Contain Digit.
+Password Invalid --- Password Does NOT Contain Special Character.
+Please enter password: Hello World!123     
+Please re-enter password to confirm: Hello World!123
+Password Invalid --- Password Contains Space.
+**ERROR** Too Many Attempts --- Account is Locked
+
+$ java Homework7.java
+Please enter password: HelloWorld!123
+Please re-enter password to confirm: HelloWorld!123
+Password Accepted --- WELCOME!
