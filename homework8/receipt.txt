@@ -1,0 +1,9 @@
+=== Receipt ===
+You chose option: 
+1. Nylon: $5 per square foot
+
+Room dimensions: 10 x 12
+Area: 120 square ft
+==============================
+Total cost: $600.0
+Thank you for shopping at the Carpet Store!
