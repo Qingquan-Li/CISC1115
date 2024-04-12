@@ -3,8 +3,8 @@ package homework8;
 import java.util.Scanner;
 
 /**
- * Write a program that gives an estinmate to a customer on how much carpet
- * would cost for a room.
+ * A program that gives an estinmate to a customer on how much carpet would
+ * cost for a room.
  */
 public class Homework8 {
 
