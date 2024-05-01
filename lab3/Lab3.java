@@ -11,9 +11,13 @@ public class Lab3 {
         int validGroups = 0;
         int invalidGroups = 0;
 
-        try (Scanner scanner = new Scanner(new File("lab3/scores.txt"));
-                PrintWriter writer = new PrintWriter("lab3/output.txt")) {
-            while (scanner.hasNextInt()) { // hasNextInt() returns true if the next token is an int
+        try {
+            File file = new File("lab3/scores.txt");
+            Scanner scanner = new Scanner(file);
+            PrintWriter writer = new PrintWriter("lab3/output.txt");
+
+            // hasNextInt() returns true if the next token is an int
+            while (scanner.hasNextInt()) {
                 int score1 = scanner.nextInt();
                 int score2 = scanner.nextInt();
                 int score3 = scanner.nextInt();
@@ -37,15 +41,25 @@ public class Lab3 {
                     writer.println();
                 } else {
                     invalidGroups++;
+                    // Print three blank lines
+                    writer.println();
+                    writer.println();
+                    writer.println();
                 }
             }
 
             // Print counters
-            writer.println("Total groups processed: " + totalGroups);
-            writer.println("Valid groups: " + validGroups);
-            writer.println("Invalid groups: " + invalidGroups);
+            writer.println("The total number of groups processed: " + totalGroups);
+            writer.println("The number of valid groups: " + validGroups);
+            writer.println("The number of invalid groups: " + invalidGroups);
+
+            scanner.close();
+            writer.close();
         } catch (FileNotFoundException e) {
             System.err.println("File not found. Please check the file path.");
+        } catch (Exception e) {
+            System.err.println("An error occurred.");
+            e.printStackTrace();
         }
     }
 

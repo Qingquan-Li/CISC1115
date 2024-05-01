@@ -18,6 +18,9 @@ Score 200 is an excellent game
 
 Invalid score -5: score must be between 0 and 300.
 Invalid group detected.
+
+
+
 Valid group: 245, 270, 120
 Score 245 is an excellent game
 Score 270 is professional game
@@ -29,6 +32,9 @@ Score 211 is an excellent game
 
 Invalid score -10: score must be between 0 and 300.
 Invalid group detected.
+
+
+
 Valid group: 275, 90, 200
 Score 275 is professional game
 Score 90 is a poor game
@@ -40,6 +46,9 @@ Score 188 is a very good game
 
 Invalid score -5: score must be between 0 and 300.
 Invalid group detected.
+
+
+
 Valid group: 80, 220, 245
 Score 80 is a poor game
 Score 220 is an excellent game
@@ -60,6 +69,9 @@ Score 173 is a very good game
 
 Invalid score -10: score must be between 0 and 300.
 Invalid group detected.
+
+
+
 Valid group: 185, 230, 195
 Score 185 is a very good game
 Score 230 is an excellent game
@@ -89,6 +101,9 @@ Score 175 is a very good game
 
 Invalid score -15: score must be between 0 and 300.
 Invalid group detected.
+
+
+
 Valid group: 170, 240, 75
 Score 170 is a very good game
 Score 240 is an excellent game
@@ -118,6 +133,9 @@ Score 148 is a very good game
 
 Invalid score -20: score must be between 0 and 300.
 Invalid group detected.
-Total groups processed: 18
-Valid groups: 12
-Invalid groups: 6
+
+
+
+The total number of groups processed: 18
+The number of valid groups: 12
+The number of invalid groups: 6
