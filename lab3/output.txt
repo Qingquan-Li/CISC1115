@@ -1,0 +1,123 @@
+Valid group: 150, 275, 90
+Score 150 is a very good game
+Score 275 is professional game
+Score 90 is a poor game
+Average score: 171
+Score 171 is a very good game
+
+
+
+Valid group: 200, 210, 190
+Score 200 is an excellent game
+Score 210 is an excellent game
+Score 190 is a very good game
+Average score: 200
+Score 200 is an excellent game
+
+
+
+Invalid score -5: score must be between 0 and 300.
+Invalid group detected.
+Valid group: 245, 270, 120
+Score 245 is an excellent game
+Score 270 is professional game
+Score 120 is a good game
+Average score: 211
+Score 211 is an excellent game
+
+
+
+Invalid score -10: score must be between 0 and 300.
+Invalid group detected.
+Valid group: 275, 90, 200
+Score 275 is professional game
+Score 90 is a poor game
+Score 200 is an excellent game
+Average score: 188
+Score 188 is a very good game
+
+
+
+Invalid score -5: score must be between 0 and 300.
+Invalid group detected.
+Valid group: 80, 220, 245
+Score 80 is a poor game
+Score 220 is an excellent game
+Score 245 is an excellent game
+Average score: 181
+Score 181 is a very good game
+
+
+
+Valid group: 270, 120, 130
+Score 270 is professional game
+Score 120 is a good game
+Score 130 is a good game
+Average score: 173
+Score 173 is a very good game
+
+
+
+Invalid score -10: score must be between 0 and 300.
+Invalid group detected.
+Valid group: 185, 230, 195
+Score 185 is a very good game
+Score 230 is an excellent game
+Score 195 is a very good game
+Average score: 203
+Score 203 is an excellent game
+
+
+
+Valid group: 205, 175, 250
+Score 205 is an excellent game
+Score 175 is a very good game
+Score 250 is professional game
+Average score: 210
+Score 210 is an excellent game
+
+
+
+Valid group: 265, 125, 135
+Score 265 is professional game
+Score 125 is a good game
+Score 135 is a good game
+Average score: 175
+Score 175 is a very good game
+
+
+
+Invalid score -15: score must be between 0 and 300.
+Invalid group detected.
+Valid group: 170, 240, 75
+Score 170 is a very good game
+Score 240 is an excellent game
+Score 75 is a poor game
+Average score: 161
+Score 161 is a very good game
+
+
+
+Valid group: 190, 210, 25
+Score 190 is a very good game
+Score 210 is an excellent game
+Score 25 is a horrible game
+Average score: 141
+Score 141 is a very good game
+
+
+
+Valid group: 55, 280, 110
+Score 55 is a poor game
+Score 280 is professional game
+Score 110 is a good game
+Average score: 148
+Score 148 is a very good game
+
+
+
+Invalid score -20: score must be between 0 and 300.
+Invalid group detected.
+Total groups processed: 18
+Valid groups: 12
+Invalid groups: 6
