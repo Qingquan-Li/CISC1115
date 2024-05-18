@@ -1,0 +1,133 @@
+2002,The Wire,US,2008
+2008,Breaking Bad,US,2013
+2015,Narcos,US,2017
+2017,Ozark,US,2022
+2017,Snowfall,US,2023
+2021,BMF,US,ONGOING
+2016,Stranger Things,US,ONGOING
+1999,Courage the Cowardly Dog,US,2002
+2022,Wednesday,US,ONGOING
+1940,Tom and Jerry,US,ONGOING
+2013,Peaky Blinders,UK,2022
+2008,Breaking Bad,US,2013
+1999,Family Guy,US,ONGOING
+2013,Rick and Morty,US,ONGOING
+2020,Solar Opposites,US,ONGOING
+2019,Demon Slayer,JP,ONGOING
+2014,The Flash,US,2023
+2012,Arrow,US,2020
+2022,Love on the Spectrum,US,ONGOING
+2021,Squid Game,KR,ONGOING
+2005,The Office,US,2013
+2019,Euphoria,US,ONGOING
+2007,Kitchen Nightmares,US,ONGOING
+2010,Victorious,US,2013
+2022,Reacher,US,ONGOING
+2019,Euphoria,US,ONGOING
+2012,The White Lotus,US,ONGOING
+2022,Winning Time,US,2023
+2017,The Deuce,US,2019
+2011,Game of Thrones,US,2019
+2004,Desperate Housewives,US,2012
+1993,Living Single,US,1998
+2020,Bridgerton,US,ONGOING
+1998,Sex and the City,US,2004
+2009,Parks and Recreation,US,2015
+2024,Shogun,US,2024
+2011,Game of Thrones,US,2019
+2017,Made in Abyss,JP,2022
+2016,Descending Stories: Showa Genroku Rakugo Shinju,JP,2017
+2018,Violet Evergarden,JP,2018
+2022,Bocchi the Rock,JP,2022
+2013,Brooklyn Nine-Nine,US,2021
+2018,All American,US,ONGOING
+2019,The Witcher,US,ONGOING
+2011,Suits,US,2019
+2016,Lucifer,US,2021
+2017,Young Sheldon,US,ONGOING
+2011,Shameless,US,2021
+2011,Game of Thrones,US,2019
+2019,The Boys,US,ONGOING
+2005,Avatar: The Last Airbender,US,2008
+1995,Neon Genesis Evangelion,JP,1996
+1997,Berserk,JP,1998
+2009,Castle,US,2016
+2015,Fresh off the Boat,US,2020
+2014,Black-ish,US,2022
+1992,Yu Yu Kakusho,JP,1994
+1997,Berserk,JP,1998
+2010,The Walking Dead,US,2022
+2002,Naruto,JP,2007
+2019,Euphoria,US,ONGOING
+2001,Trailer Park Boys,CA,2018
+2019,The Boys,US,ONGOING
+2021,Invincible,US,ONGOING
+2008,Breaking Bad,US,2013
+2005,Avatar: The Last Airbender,US,2008
+1989,Dragon Ball Z,JP,1996
+2010,The Walking Dead,US,2022
+2011,Suits,US,2019
+2005,Prison Break,US,2017
+2013,Rick and Morty,US,ONGOING
+2020,High Fidelity,US,2020
+2016,Fleabag,UK,2019
+1999,The Sopranos,US,2007
+2005,Avatar: The Last Airbender,US,2008
+2018,Pose,US,2021
+1999,One Piece,JP,ONGOING
+2008,Breaking Bad,US,2013
+2015,Better Call Saul,US,2022
+2013,Peaky Blinders,UK,2022
+1994,Friends,US,2004
+2005,The Office,US,2013
+1964,Jeopardy,US,ONGOING
+1975,Wheel of Fortune,US,ONGOING
+1976,Family Feud,US,ONGOING
+2005,Deal or No Deal,US,2019
+2005,The Office,US,2013
+2010,The Walking Dead,US,2022
+2016,Stranger Things,US,ONGOING
+2019,The Boys,US,ONGOING
+2014,The 100,US,2020
+2011,Game of Thrones,US,2019
+2001,Scrubs,US,2010
+1999,Family Guy,US,ONGOING
+1999,The Sopranos,US,2007
+2009,Modern Family,US,2020
+2011,Ridiculousness,US,ONGOING
+2011,Black Mirror,UK,ONGOING
+2010,The Walking Dead,US,2022
+2022,Cyberpunk: Edgerunners,JP,2022
+2008,Breaking Bad,US,2013
+2015,Better Call Saul,US,2022
+2020,True Beauty,KR,2021
+2023,The Walking Dead: Darryl Dixon,US,ONGOING
+2014,Silicon Valley,US,2019
+2011,Person of Interest,US,2016
+2013,House of Cards,US,2018
+2007,The Tudors,UK,2010
+2011,Game of Thrones,US,2019
+1994,Friends,US,2004
+2011,New Girl,US,2018
+2021,Loki,US,2023
+2018,What's Wrong Secretary Kim,KR,2018
+2016,Bungo Stray Dogs,JP,2023
+1999,One Piece,JP,ONGOING
+2012,Kamisama Kiss,JP,2015
+1989,The Simpsons,US,ONGOING
+1999,Family Guy,US,ONGOING
+2003,Martin Matin,FR,2018
+2008,Breaking Bad,US,2013
+1989,The Simpsons,US,ONGOING
+2011,Impractical Jokers,US,ONGOING
+2005,Hell's Kitchen,US,ONGOING
+2010,Regular Show,US,2017
+2024,Stupid Pet Tricks,US,ONGOING
+2010,Masterchef,US,ONGOING
+2009,Chopped,US,ONGOING
+2011,Suits,US,2019
+2010,The Walking Dead,US,2022
+2008,Breaking Bad,US,2013
+2016,Stranger Things,US,ONGOING
+2019,Crash Landing on You,KR,2020
+2016,Lucifer,US,2021

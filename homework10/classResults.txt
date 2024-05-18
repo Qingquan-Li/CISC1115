@@ -1,0 +1,573 @@
+[Sorted by Premiere Year (newest to oldest):]
+
+startYear  title                                            countryOfOrigin endYear
+---------  ------------------------------------------------ --------------- -------
+2024       Shogun                                           US              2024
+2024       Stupid Pet Tricks                                US              ONGOING
+2023       The Walking Dead: Darryl Dixon                   US              ONGOING
+2022       Wednesday                                        US              ONGOING
+2022       Love on the Spectrum                             US              ONGOING
+2022       Reacher                                          US              ONGOING
+2022       Winning Time                                     US              2023
+2022       Bocchi the Rock                                  JP              2022
+2022       Cyberpunk: Edgerunners                           JP              2022
+2021       Squid Game                                       KR              ONGOING
+2021       BMF                                              US              ONGOING
+2021       Invincible                                       US              ONGOING
+2021       Loki                                             US              2023
+2020       Solar Opposites                                  US              ONGOING
+2020       Bridgerton                                       US              ONGOING
+2020       High Fidelity                                    US              2020
+2020       True Beauty                                      KR              2021
+2019       Euphoria                                         US              ONGOING
+2019       Euphoria                                         US              ONGOING
+2019       The Witcher                                      US              ONGOING
+2019       The Boys                                         US              ONGOING
+2019       Euphoria                                         US              ONGOING
+2019       The Boys                                         US              ONGOING
+2019       Demon Slayer                                     JP              ONGOING
+2019       The Boys                                         US              ONGOING
+2019       Crash Landing on You                             KR              2020
+2018       Violet Evergarden                                JP              2018
+2018       All American                                     US              ONGOING
+2018       Pose                                             US              2021
+2018       What's Wrong Secretary Kim                       KR              2018
+2017       Made in Abyss                                    JP              2022
+2017       Young Sheldon                                    US              ONGOING
+2017       The Deuce                                        US              2019
+2017       Ozark                                            US              2022
+2017       Snowfall                                         US              2023
+2016       Descending Stories: Showa Genroku Rakugo Shinju  JP              2017
+2016       Stranger Things                                  US              ONGOING
+2016       Lucifer                                          US              2021
+2016       Fleabag                                          UK              2019
+2016       Stranger Things                                  US              ONGOING
+2016       Bungo Stray Dogs                                 JP              2023
+2016       Stranger Things                                  US              ONGOING
+2016       Lucifer                                          US              2021
+2015       Fresh off the Boat                               US              2020
+2015       Better Call Saul                                 US              2022
+2015       Better Call Saul                                 US              2022
+2015       Narcos                                           US              2017
+2014       Black-ish                                        US              2022
+2014       The 100                                          US              2020
+2014       The Flash                                        US              2023
+2014       Silicon Valley                                   US              2019
+2013       Rick and Morty                                   US              ONGOING
+2013       Rick and Morty                                   US              ONGOING
+2013       Peaky Blinders                                   UK              2022
+2013       Peaky Blinders                                   UK              2022
+2013       House of Cards                                   US              2018
+2013       Brooklyn Nine-Nine                               US              2021
+2012       Arrow                                            US              2020
+2012       The White Lotus                                  US              ONGOING
+2012       Kamisama Kiss                                    JP              2015
+2011       Suits                                            US              2019
+2011       Suits                                            US              2019
+2011       Game of Thrones                                  US              2019
+2011       Game of Thrones                                  US              2019
+2011       Ridiculousness                                   US              ONGOING
+2011       Black Mirror                                     UK              ONGOING
+2011       Person of Interest                               US              2016
+2011       Shameless                                        US              2021
+2011       Game of Thrones                                  US              2019
+2011       New Girl                                         US              2018
+2011       Game of Thrones                                  US              2019
+2011       Impractical Jokers                               US              ONGOING
+2011       Suits                                            US              2019
+2011       Game of Thrones                                  US              2019
+2010       The Walking Dead                                 US              2022
+2010       The Walking Dead                                 US              2022
+2010       The Walking Dead                                 US              2022
+2010       The Walking Dead                                 US              2022
+2010       Victorious                                       US              2013
+2010       Regular Show                                     US              2017
+2010       Masterchef                                       US              ONGOING
+2010       The Walking Dead                                 US              2022
+2009       Modern Family                                    US              2020
+2009       Castle                                           US              2016
+2009       Chopped                                          US              ONGOING
+2009       Parks and Recreation                             US              2015
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2007       The Tudors                                       UK              2010
+2007       Kitchen Nightmares                               US              ONGOING
+2005       Avatar: The Last Airbender                       US              2008
+2005       Avatar: The Last Airbender                       US              2008
+2005       The Office                                       US              2013
+2005       Avatar: The Last Airbender                       US              2008
+2005       Prison Break                                     US              2017
+2005       Hell's Kitchen                                   US              ONGOING
+2005       The Office                                       US              2013
+2005       The Office                                       US              2013
+2005       Deal or No Deal                                  US              2019
+2004       Desperate Housewives                             US              2012
+2003       Martin Matin                                     FR              2018
+2002       Naruto                                           JP              2007
+2002       The Wire                                         US              2008
+2001       Trailer Park Boys                                CA              2018
+2001       Scrubs                                           US              2010
+1999       Family Guy                                       US              ONGOING
+1999       Courage the Cowardly Dog                         US              2002
+1999       One Piece                                        JP              ONGOING
+1999       Family Guy                                       US              ONGOING
+1999       The Sopranos                                     US              2007
+1999       One Piece                                        JP              ONGOING
+1999       Family Guy                                       US              ONGOING
+1999       The Sopranos                                     US              2007
+1998       Sex and the City                                 US              2004
+1997       Berserk                                          JP              1998
+1997       Berserk                                          JP              1998
+1995       Neon Genesis Evangelion                          JP              1996
+1994       Friends                                          US              2004
+1994       Friends                                          US              2004
+1993       Living Single                                    US              1998
+1992       Yu Yu Kakusho                                    JP              1994
+1989       The Simpsons                                     US              ONGOING
+1989       The Simpsons                                     US              ONGOING
+1989       Dragon Ball Z                                    JP              1996
+1976       Family Feud                                      US              ONGOING
+1975       Wheel of Fortune                                 US              ONGOING
+1964       Jeopardy                                         US              ONGOING
+1940       Tom and Jerry                                    US              ONGOING
+
+[Sorted by Title (A-Z):]
+
+startYear  title                                            countryOfOrigin endYear
+---------  ------------------------------------------------ --------------- -------
+2018       All American                                     US              ONGOING
+2012       Arrow                                            US              2020
+2005       Avatar: The Last Airbender                       US              2008
+2005       Avatar: The Last Airbender                       US              2008
+2005       Avatar: The Last Airbender                       US              2008
+2021       BMF                                              US              ONGOING
+1997       Berserk                                          JP              1998
+1997       Berserk                                          JP              1998
+2015       Better Call Saul                                 US              2022
+2015       Better Call Saul                                 US              2022
+2011       Black Mirror                                     UK              ONGOING
+2014       Black-ish                                        US              2022
+2022       Bocchi the Rock                                  JP              2022
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2020       Bridgerton                                       US              ONGOING
+2013       Brooklyn Nine-Nine                               US              2021
+2016       Bungo Stray Dogs                                 JP              2023
+2009       Castle                                           US              2016
+2009       Chopped                                          US              ONGOING
+1999       Courage the Cowardly Dog                         US              2002
+2019       Crash Landing on You                             KR              2020
+2022       Cyberpunk: Edgerunners                           JP              2022
+2005       Deal or No Deal                                  US              2019
+2019       Demon Slayer                                     JP              ONGOING
+2016       Descending Stories: Showa Genroku Rakugo Shinju  JP              2017
+2004       Desperate Housewives                             US              2012
+1989       Dragon Ball Z                                    JP              1996
+2019       Euphoria                                         US              ONGOING
+2019       Euphoria                                         US              ONGOING
+2019       Euphoria                                         US              ONGOING
+1976       Family Feud                                      US              ONGOING
+1999       Family Guy                                       US              ONGOING
+1999       Family Guy                                       US              ONGOING
+1999       Family Guy                                       US              ONGOING
+2016       Fleabag                                          UK              2019
+2015       Fresh off the Boat                               US              2020
+1994       Friends                                          US              2004
+1994       Friends                                          US              2004
+2011       Game of Thrones                                  US              2019
+2011       Game of Thrones                                  US              2019
+2011       Game of Thrones                                  US              2019
+2011       Game of Thrones                                  US              2019
+2011       Game of Thrones                                  US              2019
+2005       Hell's Kitchen                                   US              ONGOING
+2020       High Fidelity                                    US              2020
+2013       House of Cards                                   US              2018
+2011       Impractical Jokers                               US              ONGOING
+2021       Invincible                                       US              ONGOING
+1964       Jeopardy                                         US              ONGOING
+2012       Kamisama Kiss                                    JP              2015
+2007       Kitchen Nightmares                               US              ONGOING
+1993       Living Single                                    US              1998
+2021       Loki                                             US              2023
+2022       Love on the Spectrum                             US              ONGOING
+2016       Lucifer                                          US              2021
+2016       Lucifer                                          US              2021
+2017       Made in Abyss                                    JP              2022
+2003       Martin Matin                                     FR              2018
+2010       Masterchef                                       US              ONGOING
+2009       Modern Family                                    US              2020
+2015       Narcos                                           US              2017
+2002       Naruto                                           JP              2007
+1995       Neon Genesis Evangelion                          JP              1996
+2011       New Girl                                         US              2018
+1999       One Piece                                        JP              ONGOING
+1999       One Piece                                        JP              ONGOING
+2017       Ozark                                            US              2022
+2009       Parks and Recreation                             US              2015
+2013       Peaky Blinders                                   UK              2022
+2013       Peaky Blinders                                   UK              2022
+2011       Person of Interest                               US              2016
+2018       Pose                                             US              2021
+2005       Prison Break                                     US              2017
+2022       Reacher                                          US              ONGOING
+2010       Regular Show                                     US              2017
+2013       Rick and Morty                                   US              ONGOING
+2013       Rick and Morty                                   US              ONGOING
+2011       Ridiculousness                                   US              ONGOING
+2001       Scrubs                                           US              2010
+1998       Sex and the City                                 US              2004
+2011       Shameless                                        US              2021
+2024       Shogun                                           US              2024
+2014       Silicon Valley                                   US              2019
+2017       Snowfall                                         US              2023
+2020       Solar Opposites                                  US              ONGOING
+2021       Squid Game                                       KR              ONGOING
+2016       Stranger Things                                  US              ONGOING
+2016       Stranger Things                                  US              ONGOING
+2016       Stranger Things                                  US              ONGOING
+2024       Stupid Pet Tricks                                US              ONGOING
+2011       Suits                                            US              2019
+2011       Suits                                            US              2019
+2011       Suits                                            US              2019
+2014       The 100                                          US              2020
+2019       The Boys                                         US              ONGOING
+2019       The Boys                                         US              ONGOING
+2019       The Boys                                         US              ONGOING
+2017       The Deuce                                        US              2019
+2014       The Flash                                        US              2023
+2005       The Office                                       US              2013
+2005       The Office                                       US              2013
+2005       The Office                                       US              2013
+1989       The Simpsons                                     US              ONGOING
+1989       The Simpsons                                     US              ONGOING
+1999       The Sopranos                                     US              2007
+1999       The Sopranos                                     US              2007
+2007       The Tudors                                       UK              2010
+2010       The Walking Dead                                 US              2022
+2010       The Walking Dead                                 US              2022
+2010       The Walking Dead                                 US              2022
+2010       The Walking Dead                                 US              2022
+2010       The Walking Dead                                 US              2022
+2023       The Walking Dead: Darryl Dixon                   US              ONGOING
+2012       The White Lotus                                  US              ONGOING
+2002       The Wire                                         US              2008
+2019       The Witcher                                      US              ONGOING
+1940       Tom and Jerry                                    US              ONGOING
+2001       Trailer Park Boys                                CA              2018
+2020       True Beauty                                      KR              2021
+2010       Victorious                                       US              2013
+2018       Violet Evergarden                                JP              2018
+2022       Wednesday                                        US              ONGOING
+2018       What's Wrong Secretary Kim                       KR              2018
+1975       Wheel of Fortune                                 US              ONGOING
+2022       Winning Time                                     US              2023
+2017       Young Sheldon                                    US              ONGOING
+1992       Yu Yu Kakusho                                    JP              1994
+
+[Unique Shows:]
+
+All American
+Arrow
+Avatar: The Last Airbender
+BMF
+Berserk
+Better Call Saul
+Black Mirror
+Black-ish
+Bocchi the Rock
+Breaking Bad
+Bridgerton
+Brooklyn Nine-Nine
+Bungo Stray Dogs
+Castle
+Chopped
+Courage the Cowardly Dog
+Crash Landing on You
+Cyberpunk: Edgerunners
+Deal or No Deal
+Demon Slayer
+Descending Stories: Showa Genroku Rakugo Shinju
+Desperate Housewives
+Dragon Ball Z
+Euphoria
+Family Feud
+Family Guy
+Fleabag
+Fresh off the Boat
+Friends
+Game of Thrones
+Hell's Kitchen
+High Fidelity
+House of Cards
+Impractical Jokers
+Invincible
+Jeopardy
+Kamisama Kiss
+Kitchen Nightmares
+Living Single
+Loki
+Love on the Spectrum
+Lucifer
+Made in Abyss
+Martin Matin
+Masterchef
+Modern Family
+Narcos
+Naruto
+Neon Genesis Evangelion
+New Girl
+One Piece
+Ozark
+Parks and Recreation
+Peaky Blinders
+Person of Interest
+Pose
+Prison Break
+Reacher
+Regular Show
+Rick and Morty
+Ridiculousness
+Scrubs
+Sex and the City
+Shameless
+Shogun
+Silicon Valley
+Snowfall
+Solar Opposites
+Squid Game
+Stranger Things
+Stupid Pet Tricks
+Suits
+The 100
+The Boys
+The Deuce
+The Flash
+The Office
+The Simpsons
+The Sopranos
+The Tudors
+The Walking Dead
+The Walking Dead: Darryl Dixon
+The White Lotus
+The Wire
+The Witcher
+Tom and Jerry
+Trailer Park Boys
+True Beauty
+Victorious
+Violet Evergarden
+Wednesday
+What's Wrong Secretary Kim
+Wheel of Fortune
+Winning Time
+Young Sheldon
+Yu Yu Kakusho
+
+[Most Popular Show:]
+Breaking Bad
+
+[Search by Title: Game of Thrones]
+Game of Thrones (2011) US
+Game of Thrones (2011) US
+Game of Thrones (2011) US
+Game of Thrones (2011) US
+Game of Thrones (2011) US
+
+[Search by Country: CA]
+Trailer Park Boys (2001) CA
+
+[Search by Ongoing Status:]
+All American (2018) US
+BMF (2021) US
+Black Mirror (2011) UK
+Bridgerton (2020) US
+Chopped (2009) US
+Demon Slayer (2019) JP
+Euphoria (2019) US
+Euphoria (2019) US
+Euphoria (2019) US
+Family Feud (1976) US
+Family Guy (1999) US
+Family Guy (1999) US
+Family Guy (1999) US
+Hell's Kitchen (2005) US
+Impractical Jokers (2011) US
+Invincible (2021) US
+Jeopardy (1964) US
+Kitchen Nightmares (2007) US
+Love on the Spectrum (2022) US
+Masterchef (2010) US
+One Piece (1999) JP
+One Piece (1999) JP
+Reacher (2022) US
+Rick and Morty (2013) US
+Rick and Morty (2013) US
+Ridiculousness (2011) US
+Solar Opposites (2020) US
+Squid Game (2021) KR
+Stranger Things (2016) US
+Stranger Things (2016) US
+Stranger Things (2016) US
+Stupid Pet Tricks (2024) US
+The Boys (2019) US
+The Boys (2019) US
+The Boys (2019) US
+The Simpsons (1989) US
+The Simpsons (1989) US
+The Walking Dead: Darryl Dixon (2023) US
+The White Lotus (2012) US
+The Witcher (2019) US
+Tom and Jerry (1940) US
+Wednesday (2022) US
+Wheel of Fortune (1975) US
+Young Sheldon (2017) US
+
+[Updated Data Set:]
+
+startYear  title                                            countryOfOrigin endYear
+---------  ------------------------------------------------ --------------- -------
+2018       All American                                     US              ONGOING
+2012       Arrow                                            US              2020
+2005       Avatar: The Last Airbender                       US              2008
+2005       Avatar: The Last Airbender                       US              2008
+2005       Avatar: The Last Airbender                       US              2008
+2021       BMF                                              US              ONGOING
+1997       Berserk                                          JP              1998
+1997       Berserk                                          JP              1998
+2015       Better Call Saul                                 US              2022
+2015       Better Call Saul                                 US              2022
+2011       Black Mirror                                     UK              ONGOING
+2014       Black-ish                                        US              2022
+2022       Bocchi the Rock                                  JP              2022
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2008       Breaking Bad                                     US              2013
+2020       Bridgerton                                       US              ONGOING
+2013       Brooklyn Nine-Nine                               US              2021
+2016       Bungo Stray Dogs                                 JP              2023
+2009       Castle                                           US              2016
+2009       Chopped                                          US              ONGOING
+1999       Courage the Cowardly Dog                         US              2002
+2019       Crash Landing on You                             KR              2020
+2022       Cyberpunk: Edgerunners                           JP              2022
+2005       Deal or No Deal                                  US              2019
+2019       Demon Slayer                                     JP              ONGOING
+2016       Descending Stories: Showa Genroku Rakugo Shinju  JP              2017
+2004       Desperate Housewives                             US              2012
+1989       Dragon Ball Z                                    JP              1996
+2019       Euphoria                                         US              ONGOING
+2019       Euphoria                                         US              ONGOING
+2019       Euphoria                                         US              ONGOING
+1976       Family Feud                                      US              ONGOING
+1999       Family Guy                                       US              ONGOING
+1999       Family Guy                                       US              ONGOING
+1999       Family Guy                                       US              ONGOING
+2016       Fleabag                                          UK              2019
+2015       Fresh off the Boat                               US              2020
+1994       Friends                                          US              2004
+1994       Friends                                          US              2004
+2011       Game of Thrones                                  US              2019
+2011       Game of Thrones                                  US              2019
+2011       Game of Thrones                                  US              2019
+2011       Game of Thrones                                  US              2019
+2011       Game of Thrones                                  US              2019
+2005       Hell's Kitchen                                   US              ONGOING
+2020       High Fidelity                                    US              2020
+2013       House of Cards                                   US              2018
+2011       Impractical Jokers                               US              ONGOING
+2021       Invincible                                       US              ONGOING
+1964       Jeopardy                                         US              ONGOING
+2012       Kamisama Kiss                                    JP              2015
+2007       Kitchen Nightmares                               US              ONGOING
+1993       Living Single                                    US              1998
+2021       Loki                                             US              2023
+2022       Love on the Spectrum                             US              ONGOING
+2016       Lucifer                                          US              2021
+2016       Lucifer                                          US              2021
+2017       Made in Abyss                                    JP              2022
+2003       Martin Matin                                     FR              2018
+2010       Masterchef                                       US              ONGOING
+2009       Modern Family                                    US              2020
+2015       Narcos                                           US              2017
+2002       Naruto                                           JP              2007
+1995       Neon Genesis Evangelion                          JP              1996
+2011       New Girl                                         US              2018
+1999       One Piece                                        JP              ONGOING
+1999       One Piece                                        JP              ONGOING
+2017       Ozark                                            US              2022
+2009       Parks and Recreation                             US              2015
+2013       Peaky Blinders                                   UK              2022
+2013       Peaky Blinders                                   UK              2022
+2011       Person of Interest                               US              2016
+2018       Pose                                             US              2021
+2005       Prison Break                                     US              2017
+2022       Reacher                                          US              ONGOING
+2010       Regular Show                                     US              2017
+2013       Rick and Morty                                   US              ONGOING
+2013       Rick and Morty                                   US              ONGOING
+2011       Ridiculousness                                   US              ONGOING
+2001       Scrubs                                           US              2010
+1998       Sex and the City                                 US              2004
+2011       Shameless                                        US              2021
+2024       Shogun                                           US              2024
+2014       Silicon Valley                                   US              2019
+2017       Snowfall                                         US              2023
+2020       Solar Opposites                                  US              ONGOING
+2021       Squid Game                                       KR              ONGOING
+2016       Stranger Things                                  US              ONGOING
+2016       Stranger Things                                  US              ONGOING
+2016       Stranger Things                                  US              ONGOING
+2024       Stupid Pet Tricks                                US              ONGOING
+2011       Suits                                            US              2019
+2011       Suits                                            US              2019
+2011       Suits                                            US              2019
+2014       The 100                                          US              2020
+2019       The Boys                                         US              ONGOING
+2019       The Boys                                         US              ONGOING
+2019       The Boys                                         US              ONGOING
+2017       The Deuce                                        US              2019
+2014       The Flash                                        US              2023
+2023       The Night Agent                                  US              2023
+2005       The Office                                       US              2013
+2005       The Office                                       US              2013
+2005       The Office                                       US              2013
+1989       The Simpsons                                     US              ONGOING
+1989       The Simpsons                                     US              ONGOING
+1999       The Sopranos                                     US              2007
+1999       The Sopranos                                     US              2007
+2007       The Tudors                                       UK              2010
+2010       The Walking Dead                                 US              2022
+2010       The Walking Dead                                 US              2022
+2010       The Walking Dead                                 US              2022
+2010       The Walking Dead                                 US              2022
+2010       The Walking Dead                                 US              2022
+2023       The Walking Dead: Darryl Dixon                   US              ONGOING
+2012       The White Lotus                                  US              ONGOING
+2002       The Wire                                         US              2008
+2019       The Witcher                                      US              ONGOING
+1940       Tom and Jerry                                    US              ONGOING
+2001       Trailer Park Boys                                CA              2018
+2020       True Beauty                                      KR              2021
+2010       Victorious                                       US              2013
+2018       Violet Evergarden                                JP              2018
+2022       Wednesday                                        US              ONGOING
+2018       What's Wrong Secretary Kim                       KR              2018
+1975       Wheel of Fortune                                 US              ONGOING
+2022       Winning Time                                     US              2023
+2017       Young Sheldon                                    US              ONGOING
+1992       Yu Yu Kakusho                                    JP              1994
+
