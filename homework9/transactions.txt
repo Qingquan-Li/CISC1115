@@ -1,0 +1,46 @@
+Enter your account number: 123456
+
+Menu:
+1. Withdraw
+2. Deposit
+3. Check balance
+4. Exit
+Enter your choice: 1
+
+Enter the amount to withdraw: 500
+Withdrawal successful.
+
+Menu:
+1. Withdraw
+2. Deposit
+3. Check balance
+4. Exit
+Enter your choice: 3
+
+Balance: 500.00
+
+Menu:
+1. Withdraw
+2. Deposit
+3. Check balance
+4. Exit
+Enter your choice: 2
+
+Enter the amount to deposit: 300
+Deposit successful.
+
+Menu:
+1. Withdraw
+2. Deposit
+3. Check balance
+4. Exit
+Enter your choice: 3
+
+Balance: 800.00
+
+Menu:
+1. Withdraw
+2. Deposit
+3. Check balance
+4. Exit
+Enter your choice: 4
